@@ -4,4 +4,4 @@ c = int(input('Enter third number: '))
 print('Maximum Number is '+ str(max(a, b, c)))
 
 #similarly for min
-print('Minnimum Number is '+ str(min(a, b, c)))
+print('Minimum Number is '+ str(min(a, b, c)))
