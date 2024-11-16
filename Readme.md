@@ -45,7 +45,7 @@ This repository contains solutions to various Python programs covered in the lab
 6. Check if a number is Armstrong.
 7. Determine if a number is a palindrome.
 8. Print an inverted left-hand pyramid.
-9. Calculate the sum of a series \( \frac{1}{1!} + \frac{2}{2!} + \dots + \frac{n}{n!} \).
+9. Calculate the sum of a series 1/1! + 2/2! + 3/3! + ...............+ n/n!.
 10. Print Floyd's Triangle.
 
 ### Program 5

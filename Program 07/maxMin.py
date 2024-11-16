@@ -1,5 +1,6 @@
 def maxMin(l):
     return max(l),min(l)
+
 n = int(input('Enter the no. of elements: '))
 l = []
 print('Enter the content in the list: ')
