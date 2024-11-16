@@ -1,18 +1,18 @@
-# Python Lab Programs
+# 🐍 Python Lab Programs 🖥️
 
-This repository contains solutions to various Python programs covered in the lab syllabus. Each program demonstrates fundamental programming concepts, including mathematical operations, data manipulation, and recursion.
+This repository contains solutions to various Python programs covered in the **Python Lab Programs**. Each program is designed to build the **fundamentals** step by step, covering everything from **mathematical operations** to **data manipulation** and even **recursions**!
 
-## Program List
+## 📋 **Program List**
 
-### Program 1
+### 🛠️ **Program 1: Basic Fundamentals**
 
 1. Convert Fahrenheit to Celsius.
-2. Swap two variables without using a temporary variable.
-3. Find simple interest.
-4. Calculate area and perimeter of a rectangle.
-5. Calculate area and circumference of a circle.
-6. Input distance (in kilometers) and time (in minutes) to calculate speed.
-7. Demonstrate various operators:
+2. Swap two variables without a temporary variable.
+3. Find Simple Interest.
+4. Calculate area & perimeter of a rectangle.
+5. Calculate area & circumference of a circle.
+6. Input distance (km) & time (minutes) to calculate speed.
+7. Demonstrate Operators:
    - Arithmetic
    - Relational
    - Assignment
@@ -21,72 +21,88 @@ This repository contains solutions to various Python programs covered in the lab
    - Membership
    - Identity
 
-### Program 2
+---
 
-1. Find the largest number among three numbers.
-2. Check if a triangle is valid given its sides.
-3. Determine if a number is even or odd.
-4. Identify if a letter is a vowel or consonant.
+### 🏗️ **Program 2: Conditional Statements**
+
+1. Find the largest number among three.
+2. Check if a triangle is valid with given sides.
+3. Even or odd?
+4. Vowel or consonant?
 5. Check if a year is a leap year.
 6. Determine grade based on marks.
 7. Display the day of the week.
 
-### Program 3
+---
 
-1. Calculate the sum of the first 10 natural numbers using:
+### 🔁 **Program 3: Loops!**
+
+1. Sum of the first 10 natural numbers using:
    - For loop
    - While loop
 2. Print multiplication table using:
    - For loop
    - While loop
-3. Print each character in a string and display its length.
+3. Print each character in a string & its length.
 4. Find the factorial of a number.
 5. Check if a number is prime.
 6. Check if a number is Armstrong.
-7. Determine if a number is a palindrome.
+7. Check if a number is a palindrome.
 8. Print an inverted left-hand pyramid.
-9. Calculate the sum of a series 1/1! + 2/2! + 3/3! + ...............+ n/n!.
+9. Calculate series: `1/1! + 2/2! + ... + n/n!`
 10. Print Floyd's Triangle.
-
-### Program 5
-
-1. Find the sum and average of elements in a list.
-2. Reverse a list.
-3. Interchange the first and last elements in a list.
-4. Remove the first occurrence of an element in a list.
-5. Extract even and odd numbers from a list.
-6. Find the positions of the minimum and maximum elements in a list.
-7. Concatenate two lists index-wise.
-
-### Program 6
-
-1. Reverse a given string.
-2. Reverse a string without using the slicing operator.
-3. Check if a string is a palindrome.
-4. Find the length of a string without using `len()`.
-5. Count the number of vowels in a string.
-6. Print even-length words in a string.
-
-### Program 7
-
-1. Functions for basic arithmetic operations: addition, subtraction, multiplication, division.
-2. Define a function with multiple return values.
-3. Find the GCD of two numbers.
-4. Find the largest and smallest numbers in a list.
-5. Find the second-largest element in a list.
-6. Flatten a list of lists into a single list.
-7. Reverse a list without using built-in `reverse()` or slicing.
-
-### Program 8
-
-1. Find the factorial of a number using recursion.
-2. Print the Fibonacci sequence using recursion.
-3. Find the GCD of two numbers using recursion.
-4. Check if a given key exists in a dictionary.
-5. Add a new key-value pair to an existing dictionary.
-6. Sum all elements in a dictionary.
-7. Create a lambda function that returns "even" if a number is even, and "odd" if a number is odd.
 
 ---
 
-Each program demonstrates key programming concepts in Python, including conditional statements, loops, functions, recursion, data structures, and more.
+### 📜 **Program 5: List!**
+
+1. Sum & average of list elements.
+2. Reverse a list.
+3. Interchange first & last elements.
+4. Remove the first occurrence of an element.
+5. Extract even & odd numbers from a list.
+6. Find positions of min & max elements.
+7. Concatenate two lists index-wise.
+
+---
+
+### ✨ **Program 6: String manipulation!**
+
+1. Reverse a string.
+2. Reverse a string (no slicing!).
+3. Check if a string is a palindrome.
+4. Find string length without `len()`.
+5. Count vowels in a string.
+6. Print even-length words in a string.
+
+---
+
+### 🧩 **Program 7: Functions!**
+
+1. Functions for arithmetic operations:
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
+2. Define a function with multiple return values.
+3. Find the GCD of two numbers.
+4. Find largest & smallest in a list.
+5. Second-largest element in a list.
+6. Flatten a list of lists.
+7. Reverse a list without `reverse()` or slicing.
+
+---
+
+### 🌟 **Program 8: Recursive Functions!**
+
+1. Find the factorial of a number using recursion.
+2. Print the Fibonacci sequence using recursion.
+3. Find GCD of two numbers using recursion.
+4. Check if a key exists in a dictionary.
+5. Add a new key-value pair to a dictionary.
+6. Sum all elements in a dictionary.
+7. Lambda function for "even/odd".
+
+---
+
+Each program demonstrates **key programming concepts** in Python, including conditional statements, loops, functions, recursion, data structures, and more.
